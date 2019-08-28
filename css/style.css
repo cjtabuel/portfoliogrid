@@ -27,3 +27,11 @@ body {
   }
 }
 
+/* adjust the padding of the .port-items on md screens
+ to accomdate md devices (so the design doesn't break) */
+/* @media (max-width: 991px) {
+  .port-item {
+    padding-left: 0.1 !important;
+    padding-right: 0.1 !important;
+  }
+} */
